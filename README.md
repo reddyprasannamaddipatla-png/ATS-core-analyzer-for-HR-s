@@ -1,6 +1,6 @@
 # 📬 AI-Agent Gmail Sends (n8n)
 
-An automated email-sending workflow built using **n8n** and powered by **AI agents**, developed by **S. Manoj Kumar**. This project demonstrates how to use conversational agents in coordination with Gmail and n8n's low-code automation to intelligently compose and send emails based on dynamic input and context.
+An automated email-sending workflow built using **n8n** and powered by **AI agents**, developed by **M.Reddi Prasanna**. This project demonstrates how to use conversational agents in coordination with Gmail and n8n's low-code automation to intelligently compose and send emails based on dynamic input and context.
 
 ---
 
@@ -47,5 +47,5 @@ An automated email-sending workflow built using **n8n** and powered by **AI agen
 
 
 👨‍💻 Developed By
-S. Manoj Kumar
+M.Reddi Prasanna
 Automation & AI Workflow Developer
